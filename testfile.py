@@ -1,1 +1,1 @@
-print("a test message for git")
+print("a test message for git v2")
